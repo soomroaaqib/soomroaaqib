@@ -9,17 +9,17 @@
 
 <br><br>
 
-![Developer at Work](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
 I'm a **Python Developer** and **Freelancer** with a passion for creating efficient and scalable solutions. With experience in building APIs, web applications, and various software solutions, I enjoy taking on new challenges and continuously learning to stay updated with the latest technologies.
 
-## 🚀 About Me
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**🚀 About Me**
 
 - 🌟 **Specialties:** Python, Django, Flask, REST APIs, Web Development, Backend Development
 - 💼 **Freelancer:** Offering Python development services including web development, API integration, and automation.
 - 🌱 **Currently Learning:** Full-stack Development and DevOps to expand my skill set.
 
-## 🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Django, Flask, ReactJS
