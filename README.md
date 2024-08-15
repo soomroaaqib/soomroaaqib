@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Muhammad Aaqib!
 
+![Developer at Work](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
 I'm a **Python Developer** and **Freelancer** with a passion for creating efficient and scalable solutions. With experience in building APIs, web applications, and various software solutions, I enjoy taking on new challenges and continuously learning to stay updated with the latest technologies.
 
 ## 🚀 About Me
