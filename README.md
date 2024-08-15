@@ -1,4 +1,13 @@
-# 👋 Hello, I'm Muhammad Aaqib!
+# 👋 Hello, I'm [Aaqib!](https://maaqib.com/)
+
+<a href="https://www.linkedin.com/in/maaqibsoomro/">
+  <img align="left" alt="Aaqib's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:soomroaaqib55@example.com">
+  <img align="left" alt="Aaqib's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br><br>
 
 ![Developer at Work](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
@@ -9,12 +18,6 @@ I'm a **Python Developer** and **Freelancer** with a passion for creating effici
 - 🌟 **Specialties:** Python, Django, Flask, REST APIs, Web Development, Backend Development
 - 💼 **Freelancer:** Offering Python development services including web development, API integration, and automation.
 - 🌱 **Currently Learning:** Full-stack Development and DevOps to expand my skill set.
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/maaqibsoomro/)
-- [Personal Website](https://maaqib.com)
-- [Email](mailto:soomroaaqib55@example.com)
 
 ## 🛠️ Tools & Technologies
 
