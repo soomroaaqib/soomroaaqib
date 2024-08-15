@@ -24,7 +24,6 @@ I'm a **Python Developer** and **Freelancer** with a passion for creating effici
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Django, Flask, ReactJS
 - **Tools:** Git, Docker, AWS, VS Code, PyCharm
-- **Databases:** PostgreSQL
 
 ## 🤝 Open to Collaboration
 
